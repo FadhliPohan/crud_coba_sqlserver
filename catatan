@@ -1,0 +1,8 @@
+buat database sqlserver
+sambungkan
+instal odbc 17
+download extention sqlserver , tambahkan di php,ext
+edit php.ini -> tambahkan extention / panggil 
+edit env.
+edit database.conf _> uncentang komentar -> false jadi true
+lakukan migrate
